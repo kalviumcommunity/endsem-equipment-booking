@@ -1,6 +1,7 @@
 Equipment booking guide
-Cancellation: give at least 48 hours notice.
+Cancellation: give at least 72 hours notice.
 Access
 Collect equipment at the service desk.
 Returns
 Return equipment to the service desk.
+Report damage when returning equipment.
