@@ -1,6 +1,7 @@
 Equipment booking guide
-Cancellation: give at least 48 hours notice.
+Cancellation: give at least 12 hours notice.
 Access
 Collect equipment at the service desk.
+Bring student ID for collection.
 Returns
 Return equipment to the service desk.
